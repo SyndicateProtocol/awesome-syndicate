@@ -21,11 +21,11 @@ Explore a curated collection of applications, integrations and documentation cen
 
 ## Resources
 - [Syndicate Website](https://syndicate.io/)
-- [Developer Documentation](https://docs.syndicate.io/get-started/introduction)https://docs.syndicate.io/get-started/introduction
+- [Developer Documentation](https://docs.syndicate.io/get-started/introduction)
 - [Syndicate X](https://twitter.com/syndicateio)
 - [Syndicate Farcaster](https://warpcast.com/syndicate)
-- [Syndicate Blog](https://syndicate.io/blog)https://syndicate.io/blog
-- [Syndicate Mirror](https://syndicate.mirror.xyz/)https://syndicate.mirror.xyz/
+- [Syndicate Blog](https://syndicate.io/blog)
+- [Syndicate Mirror](https://syndicate.mirror.xyz/)
 
 
 
