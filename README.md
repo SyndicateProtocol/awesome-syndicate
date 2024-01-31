@@ -10,11 +10,11 @@ If you're insteresed in sharing feedback, feel free to open an issue or initiate
 - [AI Agent](https://github.com/ianDAOs/agent-banked)
 
 ## Integrations
-- Farcaster + Syndicate: NFT API
-- Stripe + Syndicate: Recurring Payments
-- Bitski + Syndicate: Webhook 
-- IPFS + Syndicate: Dynamic Metadata
-- [Stripe + Syndicate: Recurring Payments](https://github.com/SyndicateProtocol/syndicate-stripe-nfts)
+- Farcaster: NFT API
+- Stripe: Recurring Payments
+- Bitski: Webhook 
+- IPFS: Dynamic Metadata
+- [Stripe: Recurring Payments](https://github.com/SyndicateProtocol/syndicate-stripe-nfts)
   
 # Architecture & Foundation
 - [Syndicate Transaction Cloud](https://syndicate.io/blog/transaction-cloud)
