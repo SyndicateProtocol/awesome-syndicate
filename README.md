@@ -2,9 +2,7 @@
 
 Syndicate is building the infrastructure to power the next wave of web3 platforms and products at scale. Developers can leverage Syndicate’s infrastructure to abstract web3’s complexity, so your team can spend less time managing complex web3 infrastructure and more time building an exceptional end-to-end experience for your customers.
 
-Below you can explore a curated collection of applications, integrations and documentation centered around Syndicate's stack. 
-
-Interested in getting started? Create a free account [here](https://dashboard.syndicate.io/signup). 
+Explore a curated collection of applications, integrations and documentation centered around Syndicate's stack below. Interested in getting started? Create a free account [here](https://dashboard.syndicate.io/signup). 
 
 ## Applications & Examples
 - [On-chain Cows](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame)
