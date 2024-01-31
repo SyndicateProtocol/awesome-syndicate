@@ -13,9 +13,9 @@ Explore a curated collection of applications, integrations and documentation cen
 
 ## Integrations
 - [Farcaster: Frame NFT API](https://github.com/WillPapper/syndicate-farcaster-frame-starter) - An API that allows you to easily mint an NFT on Base mainnet from a [Farcaster Frame](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5) 
-- [Stripe: Recurring Payments](https://github.com/SyndicateProtocol/syndicate-stripe-nfts) - Enables the minting and distribution of NFTs to customers who subscribe via a Stripe. Great for a loyalty / subscription use case.  
-- [Bitski: Gas Subsidies](https://github.com/SyndicateProtocol/gas-subsidy-webhook-prototype) 
-- [IPFS: Dynamic Metadata](https://docs.syndicate.io/guides/dynamic-nft-metadata)
+- [Stripe: Recurring Payments](https://github.com/SyndicateProtocol/syndicate-stripe-nfts) - Enables distribution of membership NFTs & recurring payments via Stripe
+- [Bitski: Gas Subsidies](https://github.com/SyndicateProtocol/gas-subsidy-webhook-prototype) - Webhook that triggers gas subsidies upon Bitski WaaS wallet creation
+- [IPFS: Dynamic Metadata](https://docs.syndicate.io/guides/dynamic-nft-metadata) - Syndicate's metadata options
   
 ## Architecture
 - [Syndicate Transaction Cloud](https://syndicate.io/blog/transaction-cloud)
