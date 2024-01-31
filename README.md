@@ -4,6 +4,25 @@ Explore a curated collection of resources, tools and applications centered aroun
 
 If you're insteresed in sharing feedback, feel free to open an issue or initiate a pull request.
 
-## Syndicate Resources
+# Applications & Examples
+- [On-chain Cows](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame)
+- [Circularity Minter](https://github.com/WillPapper/circularity-minter/tree/main)
+- [AI Agent](https://github.com/ianDAOs/agent-banked)
 
-[Dev Docs](https://docs.syndicate.io/get-started/introduction)
+## Integrations
+- Farcaster + Syndicate: NFT API
+- Stripe + Syndicate: Recurring Payments
+- Bitski + Syndicate: Webhook 
+- IPFS + Syndicate: Dynamic Metadata
+- [Syndicate + Stripe: Recurring Payments](https://github.com/SyndicateProtocol/syndicate-stripe-nfts)
+  
+# Architecture & Foundation
+- [Syndicate Transaction Cloud](https://syndicate.io/blog/transaction-cloud)
+
+
+
+
+
+
+
+
