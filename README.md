@@ -1,8 +1,10 @@
 # awesome-syndicate
 
-Explore a curated collection of resources, tools and applications centered around Syndicate's Transaction Cloud. Our repository is a space that welcomes innovative contributions and ideas. 
+Syndicate is building the infrastructure to power the next wave of web3 platforms and products at scale. Developers can leverage Syndicate’s infrastructure to abstract web3’s complexity, so your team can spend less time managing complex web3 infrastructure and more time building an exceptional end-to-end experience for your customers.
 
-If you're interested in sharing feedback, feel free to open an issue or initiate a pull request.
+Below you can explore a curated collection of applications, integrations and documentation centered around Syndicate's stack. 
+
+Interested in getting started? Create a free account [here](https://dashboard.syndicate.io/signup). 
 
 ## Applications & Examples
 - [On-chain Cows](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame)
@@ -10,11 +12,10 @@ If you're interested in sharing feedback, feel free to open an issue or initiate
 - [AI Agent](https://github.com/ianDAOs/agent-banked)
 
 ## Integrations
-- Farcaster: NFT API
-- Stripe: Recurring Payments
-- Bitski: Webhook 
-- IPFS: Dynamic Metadata
+- [Farcaster: Frame NFT API](https://github.com/WillPapper/syndicate-farcaster-frame-starter)
 - [Stripe: Recurring Payments](https://github.com/SyndicateProtocol/syndicate-stripe-nfts)
+- [Bitski: Gas Subsidies at Wallet Creation](https://github.com/SyndicateProtocol/gas-subsidy-webhook-prototype) 
+- IPFS: Dynamic Metadata
   
 ## Architecture & Foundation
 - [Syndicate Transaction Cloud](https://syndicate.io/blog/transaction-cloud)
