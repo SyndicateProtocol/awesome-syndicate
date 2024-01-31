@@ -14,10 +14,18 @@ Explore a curated collection of applications, integrations and documentation cen
 - [Farcaster: Frame NFT API](https://github.com/WillPapper/syndicate-farcaster-frame-starter)
 - [Stripe: Recurring Payments](https://github.com/SyndicateProtocol/syndicate-stripe-nfts)
 - [Bitski: Gas Subsidies](https://github.com/SyndicateProtocol/gas-subsidy-webhook-prototype) 
-- IPFS: Dynamic Metadata
+- [IPFS: Dynamic Metadata](https://docs.syndicate.io/guides/dynamic-nft-metadata)
   
-## Architecture & Foundation
+## Architecture
 - [Syndicate Transaction Cloud](https://syndicate.io/blog/transaction-cloud)
+
+## Resources
+- [Syndicate Website](https://syndicate.io/)
+- [Developer Documentation](https://docs.syndicate.io/get-started/introduction)https://docs.syndicate.io/get-started/introduction
+- [Syndicate X](https://twitter.com/syndicateio)
+- [Syndicate Farcaster](https://warpcast.com/syndicate)
+- [Syndicate Blog](https://syndicate.io/blog)https://syndicate.io/blog
+- [Syndicate Mirror](https://syndicate.mirror.xyz/)https://syndicate.mirror.xyz/
 
 
 
