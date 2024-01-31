@@ -14,7 +14,7 @@ If you're insteresed in sharing feedback, feel free to open an issue or initiate
 - Stripe + Syndicate: Recurring Payments
 - Bitski + Syndicate: Webhook 
 - IPFS + Syndicate: Dynamic Metadata
-- [Syndicate + Stripe: Recurring Payments](https://github.com/SyndicateProtocol/syndicate-stripe-nfts)
+- [Stripe + Syndicate: Recurring Payments](https://github.com/SyndicateProtocol/syndicate-stripe-nfts)
   
 # Architecture & Foundation
 - [Syndicate Transaction Cloud](https://syndicate.io/blog/transaction-cloud)
