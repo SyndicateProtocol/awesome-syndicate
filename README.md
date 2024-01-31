@@ -6,13 +6,14 @@ Syndicate is building the infrastructure to power the next wave of web3 platform
 Explore a curated collection of applications, integrations and documentation centered around Syndicate's stack below. Interested in getting started? Create a free account [here](https://dashboard.syndicate.io/signup). 
 
 ## Applications & Examples
-- [On-chain Cows](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame)
-- [Circularity Minter](https://github.com/WillPapper/circularity-minter/tree/main)
-- [AI Agent](https://github.com/ianDAOs/agent-banked)
+- [On-chain Cows](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame) - The [Cow Clicker](http://www.cowclicker.com/) game you know and love, just on-chain!
+- [Circularity Minter](https://github.com/WillPapper/circularity-minter/tree/main) - A minting bot for [Circularity NFT](https://twitter.com/WillPapper/status/1647275011747766272)
+- [AI Agent](https://github.com/ianDAOs/agent-banked) - A GPT that autonomously manages USDC in its own [Safe](https://safe.global/) multisig wallet on [Base](https://www.base.org/)
+
 
 ## Integrations
-- [Farcaster: Frame NFT API](https://github.com/WillPapper/syndicate-farcaster-frame-starter)
-- [Stripe: Recurring Payments](https://github.com/SyndicateProtocol/syndicate-stripe-nfts)
+- [Farcaster: Frame NFT API](https://github.com/WillPapper/syndicate-farcaster-frame-starter) - An API that allows you to easily mint an NFT on Base mainnet from a [Farcaster Frame](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5) 
+- [Stripe: Recurring Payments](https://github.com/SyndicateProtocol/syndicate-stripe-nfts) - Enables the minting and distribution of NFTs to customers who subscribe via a Stripe. Great for a loyalty / subscription use case.  
 - [Bitski: Gas Subsidies](https://github.com/SyndicateProtocol/gas-subsidy-webhook-prototype) 
 - [IPFS: Dynamic Metadata](https://docs.syndicate.io/guides/dynamic-nft-metadata)
   
