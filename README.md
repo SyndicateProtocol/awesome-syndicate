@@ -14,7 +14,7 @@ Interested in getting started? Create a free account [here](https://dashboard.sy
 ## Integrations
 - [Farcaster: Frame NFT API](https://github.com/WillPapper/syndicate-farcaster-frame-starter)
 - [Stripe: Recurring Payments](https://github.com/SyndicateProtocol/syndicate-stripe-nfts)
-- [Bitski: Gas Subsidies at Wallet Creation](https://github.com/SyndicateProtocol/gas-subsidy-webhook-prototype) 
+- [Bitski: Gas Subsidies](https://github.com/SyndicateProtocol/gas-subsidy-webhook-prototype) 
 - IPFS: Dynamic Metadata
   
 ## Architecture & Foundation
