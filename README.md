@@ -1,4 +1,4 @@
-# awesome-syndicate ![Syndicate-Secondary-Logo-White-On-Transparent (1)](https://github.com/SyndicateProtocol/awesome-syndicate/assets/103137304/b50c108a-76b6-455a-be61-35bf11c0fe0b)
+# awesome-syndicate ![syndicate](https://github.com/SyndicateProtocol/awesome-syndicate/assets/40896596/22d3ca7c-68ad-42a4-a087-5c7b58454f90)
 
 
 Syndicate is building the infrastructure to power the next wave of web3 platforms and products at scale. Developers can leverage Syndicate’s infrastructure to abstract web3’s complexity, so your team can spend less time managing complex web3 infrastructure and more time building an exceptional end-to-end experience for your customers.
